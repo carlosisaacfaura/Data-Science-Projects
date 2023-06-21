@@ -1,0 +1,2 @@
+# Data-Science-Projects-With-Python
+This repository contains a collection of data science projects completed in Python, showcasing the experience and skills I have gained during IBM's Professional Data Science Certification. The projects cover a range of topics and techniques, from exploratory data analysis and visualization to the implementation of machine learning algorithms and predictive modeling.
